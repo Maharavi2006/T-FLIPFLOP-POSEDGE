@@ -73,4 +73,5 @@ endmodule
 ![image](https://github.com/Adchayakiruthika18/T-FLIPFLOP-POSEDGE/assets/147139995/309cd74b-d7af-44e2-a52a-1a6dbf4d530c)
 
 **RESULTS**
+
 Hence, T flipflop using verilog and validating their functionality using their functional tables is implemented.
